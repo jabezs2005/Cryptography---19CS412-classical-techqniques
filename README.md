@@ -368,8 +368,7 @@ In the rail fence cipher, the plaintext is written downwards and diagonally on s
         encrypt(text);
         return 0;
     }
-}
-```
+
 
 # OUTPUT:
 ### Enter a Secret Message wearediscovered
