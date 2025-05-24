@@ -91,6 +91,7 @@ The program is executed successfully
 ---------------------------------
 
 # PlayFair Cipher
+## Date: 24.2.25
 Playfair Cipher using with different key values
 
 # AIM:
@@ -195,6 +196,7 @@ The program is executed successfully
 ---------------------------
 
 # Hill Cipher
+## Date: 26.2.25
 Hill Cipher using with different key values
 
 # AIM:
@@ -267,6 +269,7 @@ The program is executed successfully
 -------------------------------------------------
 
 # Vigenere Cipher
+## Date: 3.3.25
 Vigenere Cipher using with different key values
 
 # AIM:
@@ -316,7 +319,7 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
     
         return 0;
     }
-
+```
 # OUTPUT:
 ### Simulating Vigenere Cipher
 ### Input Message : SecurityLaboratory
@@ -327,6 +330,7 @@ The program is executed successfully
 -----------------------------------------------------------------------
 
 # Rail Fence Cipher
+## Date: 5.3.25
 Rail Fence Cipher using with different key values
 
 # AIM:
@@ -369,7 +373,7 @@ In the rail fence cipher, the plaintext is written downwards and diagonally on s
         encrypt(text);
         return 0;
     }
-
+```
 
 # OUTPUT:
 ### Enter a Secret Message wearediscovered
